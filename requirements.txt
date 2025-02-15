@@ -1,0 +1,7 @@
+# requirements.txt
+supabase
+python-dotenv
+fastapi
+uvicorn
+requests
+pandas
