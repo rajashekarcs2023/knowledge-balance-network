@@ -1,0 +1,1001 @@
+User_ID,Topic,Self-Confidence,AI-Adjusted Confidence,Errors,Transition Difficulty,Learning Modality,Frustration
+user_498,Diffusion Models,10,10,None,LOW,Peer Discussion,No
+user_694,Reinforcement Learning,3,3,None,LOW,Reading & Notes,No
+user_056,Zero-shot Learning,10,10,Confused batch vs. stochastic gradient descent,MEDIUM,Peer Discussion,No
+user_451,Transformers,5,3,None,MEDIUM,Peer Discussion,No
+user_147,Diffusion Models,1,1,Confused convolutional filters,MEDIUM,Peer Discussion,No
+user_995,Explainability in AI,6,6,Misused dropout layers,LOW,Reading & Notes,No
+user_129,Multi-modal Learning,5,5,Misunderstood positional encoding in transformers,LOW,Reading & Notes,No
+user_088,LLMs in Real-World Applications,1,1,None,MEDIUM,Peer Discussion,No
+user_431,RNNs,8,7,Incorrect weight initialization,HIGH,Reading & Notes,Yes
+user_335,CNNs,9,9,Misused dropout layers,HIGH,Reading & Notes,No
+user_401,Attention Mechanisms,1,1,None,HIGH,Reading & Notes,Yes
+user_861,Optimization Techniques,6,6,Misused dropout layers,LOW,Peer Discussion,No
+user_606,Gradient Descent,10,10,None,HIGH,Video,No
+user_754,Backpropagation,3,1,Misclassified overfitting vs underfitting,MEDIUM,Peer Discussion,No
+user_815,Optimization Techniques,4,2,Misclassified overfitting vs underfitting,MEDIUM,Peer Discussion,No
+user_617,CNNs,7,7,Misused dropout layers,LOW,Reading & Notes,No
+user_710,GANs,6,4,Incorrect weight initialization,MEDIUM,Reading & Notes,No
+user_979,Ethical AI,1,1,Misused activation function,MEDIUM,Reading & Notes,No
+user_167,Attention Mechanisms,1,1,Confused batch vs. stochastic gradient descent,LOW,Hands-on Coding,No
+user_141,Vector Search,4,3,Incorrect weight initialization,HIGH,Reading & Notes,Yes
+user_556,Reinforcement Learning,7,5,Incorrect embedding interpretation,LOW,Hands-on Coding,No
+user_439,Neural Networks,2,1,Misused dropout layers,MEDIUM,Video,No
+user_642,GANs,1,1,Misused activation function,MEDIUM,Peer Discussion,No
+user_325,Self-supervised Learning,10,9,None,LOW,Reading & Notes,No
+user_036,Diffusion Models,10,10,None,MEDIUM,Hands-on Coding,No
+user_987,Explainability in AI,7,5,Confused reinforcement learning reward shaping,MEDIUM,Reading & Notes,No
+user_650,GANs,1,1,Confused reinforcement learning reward shaping,HIGH,Peer Discussion,No
+user_221,Word Embeddings,4,3,Incorrect embedding interpretation,MEDIUM,Hands-on Coding,No
+user_938,Ethical AI,1,1,Incorrect embedding interpretation,HIGH,Reading & Notes,Yes
+user_228,CNNs,6,4,Confused batch vs. stochastic gradient descent,LOW,Hands-on Coding,No
+user_780,Reinforcement Learning,10,9,Incorrect weight initialization,HIGH,Hands-on Coding,Yes
+user_075,Self-supervised Learning,8,8,None,LOW,Reading & Notes,No
+user_451,Word Embeddings,8,7,None,LOW,Video,No
+user_491,Multi-modal Learning,10,10,Misused dropout layers,HIGH,Hands-on Coding,No
+user_095,Reinforcement Learning,7,7,None,MEDIUM,Video,No
+user_300,Autoencoders,1,1,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_795,LLMs in Real-World Applications,1,1,Incorrect weight initialization,LOW,Hands-on Coding,No
+user_118,Neural Networks,1,1,Misunderstood positional encoding in transformers,MEDIUM,Reading & Notes,No
+user_484,Neural Networks,2,1,Incorrect weight initialization,HIGH,Video,No
+user_009,RNNs,7,6,Confused convolutional filters,HIGH,Peer Discussion,No
+user_671,GANs,1,1,Failed to normalize input data,MEDIUM,Peer Discussion,No
+user_914,Optimization Techniques,10,9,Misunderstood positional encoding in transformers,MEDIUM,Hands-on Coding,No
+user_838,Multi-modal Learning,7,6,Misclassified overfitting vs underfitting,HIGH,Peer Discussion,Yes
+user_802,Gradient Descent,3,3,Incorrect embedding interpretation,LOW,Reading & Notes,No
+user_528,Few-shot Learning,5,3,Misunderstood positional encoding in transformers,HIGH,Hands-on Coding,Yes
+user_512,Autoencoders,6,5,Confused convolutional filters,MEDIUM,Hands-on Coding,No
+user_595,Diffusion Models,8,8,Confused convolutional filters,MEDIUM,Video,No
+user_456,Neural Networks,4,4,Failed to normalize input data,HIGH,Peer Discussion,Yes
+user_458,RNNs,10,9,None,HIGH,Peer Discussion,No
+user_810,Word Embeddings,8,7,None,HIGH,Reading & Notes,Yes
+user_797,Explainability in AI,5,3,Confused batch vs. stochastic gradient descent,MEDIUM,Reading & Notes,No
+user_734,Vector Search,4,4,None,LOW,Video,No
+user_488,LLMs in Real-World Applications,2,1,None,LOW,Video,No
+user_063,Diffusion Models,1,1,None,MEDIUM,Peer Discussion,No
+user_725,Ethical AI,3,1,Misunderstood positional encoding in transformers,LOW,Video,No
+user_410,LLMs in Real-World Applications,9,9,None,MEDIUM,Hands-on Coding,No
+user_214,Zero-shot Learning,6,5,Confused reinforcement learning reward shaping,LOW,Peer Discussion,No
+user_309,Neural Networks,4,4,Confused convolutional filters,LOW,Peer Discussion,No
+user_623,RNNs,1,1,None,HIGH,Peer Discussion,No
+user_162,Word Embeddings,3,2,None,LOW,Hands-on Coding,No
+user_777,Optimization Techniques,3,1,None,HIGH,Reading & Notes,Yes
+user_354,Explainability in AI,7,5,Incorrect weight initialization,MEDIUM,Peer Discussion,No
+user_025,GANs,2,2,Confused batch vs. stochastic gradient descent,HIGH,Video,No
+user_849,Self-supervised Learning,10,10,Incorrect embedding interpretation,MEDIUM,Hands-on Coding,No
+user_147,Ethical AI,2,1,None,MEDIUM,Video,No
+user_422,RNNs,4,3,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_573,Attention Mechanisms,1,1,None,MEDIUM,Video,No
+user_395,LLMs in Real-World Applications,8,7,None,MEDIUM,Peer Discussion,No
+user_657,Attention Mechanisms,2,1,Confused batch vs. stochastic gradient descent,MEDIUM,Reading & Notes,No
+user_168,Diffusion Models,5,5,None,LOW,Hands-on Coding,No
+user_041,RNNs,9,7,None,MEDIUM,Video,No
+user_859,Explainability in AI,4,2,None,LOW,Peer Discussion,No
+user_244,Neural Networks,3,3,None,LOW,Reading & Notes,No
+user_033,Autoencoders,1,1,Misclassified overfitting vs underfitting,HIGH,Peer Discussion,No
+user_613,Autoencoders,10,10,None,HIGH,Reading & Notes,Yes
+user_113,Autoencoders,1,1,None,HIGH,Peer Discussion,No
+user_826,Multi-modal Learning,7,6,Incorrect embedding interpretation,LOW,Video,No
+user_231,Ethical AI,7,7,Incorrect weight initialization,MEDIUM,Peer Discussion,No
+user_298,Explainability in AI,8,7,Incorrect weight initialization,LOW,Reading & Notes,No
+user_857,Self-supervised Learning,8,7,None,HIGH,Video,No
+user_505,Word Embeddings,4,2,None,HIGH,Video,No
+user_227,Self-supervised Learning,7,7,Failed to normalize input data,LOW,Reading & Notes,No
+user_599,Few-shot Learning,2,2,None,HIGH,Video,No
+user_641,Overfitting and Regularization,8,7,Confused convolutional filters,HIGH,Video,Yes
+user_242,Transformers,3,1,Misunderstood positional encoding in transformers,HIGH,Peer Discussion,Yes
+user_943,Multi-modal Learning,7,6,Failed to normalize input data,MEDIUM,Peer Discussion,No
+user_909,Self-supervised Learning,3,2,Misused dropout layers,LOW,Hands-on Coding,No
+user_237,Transformers,5,5,None,MEDIUM,Hands-on Coding,No
+user_144,Few-shot Learning,9,7,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_941,Diffusion Models,7,5,Confused batch vs. stochastic gradient descent,MEDIUM,Video,No
+user_856,Self-supervised Learning,7,6,None,HIGH,Peer Discussion,No
+user_546,Backpropagation,5,5,Confused batch vs. stochastic gradient descent,LOW,Video,No
+user_556,LLMs in Real-World Applications,6,6,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_081,Multi-modal Learning,10,9,Confused convolutional filters,LOW,Video,No
+user_998,Zero-shot Learning,7,6,None,LOW,Hands-on Coding,No
+user_780,GANs,7,5,Misunderstood positional encoding in transformers,LOW,Video,No
+user_436,LLMs in Real-World Applications,6,5,Misclassified overfitting vs underfitting,HIGH,Hands-on Coding,No
+user_828,Neural Networks,6,5,Confused reinforcement learning reward shaping,HIGH,Reading & Notes,Yes
+user_340,Zero-shot Learning,4,3,Incorrect embedding interpretation,HIGH,Hands-on Coding,No
+user_871,GANs,8,8,Failed to normalize input data,HIGH,Video,No
+user_405,Backpropagation,1,1,Confused convolutional filters,HIGH,Peer Discussion,No
+user_967,Word Embeddings,4,2,Incorrect embedding interpretation,LOW,Video,No
+user_050,GANs,5,5,Confused batch vs. stochastic gradient descent,HIGH,Reading & Notes,Yes
+user_523,Ethical AI,9,8,Confused batch vs. stochastic gradient descent,LOW,Reading & Notes,No
+user_873,Reinforcement Learning,4,3,None,MEDIUM,Peer Discussion,No
+user_895,LLMs in Real-World Applications,2,2,None,HIGH,Video,No
+user_109,GANs,7,7,None,LOW,Hands-on Coding,No
+user_466,Gradient Descent,8,7,None,MEDIUM,Hands-on Coding,No
+user_001,GANs,9,8,Misused activation function,MEDIUM,Reading & Notes,No
+user_495,RNNs,1,1,Failed to normalize input data,LOW,Video,No
+user_430,GANs,7,6,Incorrect weight initialization,MEDIUM,Peer Discussion,No
+user_757,Diffusion Models,7,5,Misunderstood positional encoding in transformers,LOW,Hands-on Coding,No
+user_197,RNNs,9,8,None,MEDIUM,Video,No
+user_867,Ethical AI,7,5,None,HIGH,Video,Yes
+user_759,RNNs,4,4,None,LOW,Video,No
+user_780,Self-supervised Learning,3,3,Misunderstood positional encoding in transformers,LOW,Peer Discussion,No
+user_679,Few-shot Learning,1,1,None,LOW,Video,No
+user_403,Vector Search,10,10,Confused batch vs. stochastic gradient descent,HIGH,Peer Discussion,Yes
+user_353,Transformers,6,4,Failed to normalize input data,LOW,Hands-on Coding,No
+user_976,Word Embeddings,4,3,None,LOW,Reading & Notes,No
+user_182,Word Embeddings,3,2,None,MEDIUM,Peer Discussion,No
+user_361,Explainability in AI,1,1,Confused reinforcement learning reward shaping,LOW,Hands-on Coding,No
+user_204,Transformers,6,4,None,MEDIUM,Peer Discussion,No
+user_522,Overfitting and Regularization,9,7,Misused dropout layers,LOW,Peer Discussion,No
+user_911,Zero-shot Learning,4,2,Misused activation function,LOW,Reading & Notes,No
+user_259,Vector Search,10,8,Misused dropout layers,MEDIUM,Peer Discussion,No
+user_324,Vector Search,5,5,Misclassified overfitting vs underfitting,MEDIUM,Peer Discussion,No
+user_852,Explainability in AI,9,8,Misclassified overfitting vs underfitting,MEDIUM,Reading & Notes,No
+user_632,Backpropagation,3,2,Confused reinforcement learning reward shaping,HIGH,Hands-on Coding,Yes
+user_917,RNNs,2,1,Confused convolutional filters,LOW,Peer Discussion,No
+user_943,Diffusion Models,10,9,None,LOW,Hands-on Coding,No
+user_073,Explainability in AI,5,4,None,MEDIUM,Video,No
+user_355,Few-shot Learning,8,6,Confused reinforcement learning reward shaping,MEDIUM,Hands-on Coding,No
+user_945,Gradient Descent,2,1,None,LOW,Video,No
+user_420,Vector Search,1,1,Incorrect embedding interpretation,HIGH,Peer Discussion,Yes
+user_120,Overfitting and Regularization,8,8,None,HIGH,Hands-on Coding,No
+user_203,Overfitting and Regularization,2,1,None,LOW,Video,No
+user_678,GANs,7,7,None,LOW,Video,No
+user_944,Transformers,4,2,None,HIGH,Hands-on Coding,No
+user_218,Self-supervised Learning,8,8,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_028,Reinforcement Learning,7,7,None,MEDIUM,Video,No
+user_297,Overfitting and Regularization,3,3,Misunderstood positional encoding in transformers,HIGH,Video,Yes
+user_853,Word Embeddings,1,1,Incorrect weight initialization,HIGH,Video,No
+user_261,Optimization Techniques,5,5,Confused batch vs. stochastic gradient descent,HIGH,Video,Yes
+user_096,Backpropagation,9,7,Misunderstood positional encoding in transformers,LOW,Reading & Notes,No
+user_229,Word Embeddings,9,9,Misunderstood positional encoding in transformers,MEDIUM,Video,No
+user_403,Overfitting and Regularization,7,6,Incorrect weight initialization,HIGH,Hands-on Coding,Yes
+user_520,Transformers,8,8,None,LOW,Video,No
+user_519,Few-shot Learning,8,7,Confused reinforcement learning reward shaping,LOW,Peer Discussion,No
+user_488,CNNs,4,3,Failed to normalize input data,LOW,Video,No
+user_458,Reinforcement Learning,5,5,Incorrect weight initialization,MEDIUM,Hands-on Coding,No
+user_913,Backpropagation,6,4,None,MEDIUM,Peer Discussion,No
+user_849,CNNs,9,9,Confused reinforcement learning reward shaping,LOW,Video,No
+user_376,Neural Networks,8,7,None,HIGH,Video,Yes
+user_457,Zero-shot Learning,7,7,Confused reinforcement learning reward shaping,HIGH,Reading & Notes,Yes
+user_002,Transformers,6,5,None,HIGH,Reading & Notes,Yes
+user_768,Autoencoders,4,4,Incorrect weight initialization,MEDIUM,Video,No
+user_991,Reinforcement Learning,5,5,Failed to normalize input data,LOW,Hands-on Coding,No
+user_031,CNNs,2,1,None,LOW,Reading & Notes,No
+user_415,Few-shot Learning,8,7,None,MEDIUM,Hands-on Coding,No
+user_390,Transformers,8,6,None,MEDIUM,Hands-on Coding,No
+user_424,Backpropagation,2,2,None,MEDIUM,Hands-on Coding,No
+user_850,Ethical AI,8,7,Incorrect weight initialization,LOW,Video,No
+user_813,Optimization Techniques,8,8,None,LOW,Peer Discussion,No
+user_699,LLMs in Real-World Applications,3,3,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_717,Multi-modal Learning,4,3,None,MEDIUM,Peer Discussion,No
+user_680,Diffusion Models,10,9,None,HIGH,Video,Yes
+user_218,Reinforcement Learning,6,6,None,MEDIUM,Video,No
+user_951,CNNs,4,2,Misused dropout layers,MEDIUM,Reading & Notes,No
+user_214,Autoencoders,1,1,None,HIGH,Hands-on Coding,Yes
+user_905,Neural Networks,2,1,None,HIGH,Reading & Notes,Yes
+user_612,Autoencoders,8,6,None,MEDIUM,Hands-on Coding,No
+user_844,Ethical AI,6,5,Misused dropout layers,LOW,Peer Discussion,No
+user_444,Explainability in AI,8,8,None,MEDIUM,Video,No
+user_380,LLMs in Real-World Applications,3,3,None,MEDIUM,Reading & Notes,No
+user_939,LLMs in Real-World Applications,9,9,None,LOW,Peer Discussion,No
+user_954,Few-shot Learning,6,4,Misclassified overfitting vs underfitting,LOW,Peer Discussion,No
+user_730,Reinforcement Learning,3,2,None,HIGH,Hands-on Coding,No
+user_398,GANs,4,2,Incorrect embedding interpretation,HIGH,Peer Discussion,No
+user_941,GANs,2,1,None,HIGH,Hands-on Coding,No
+user_233,Zero-shot Learning,5,4,None,HIGH,Video,No
+user_359,Word Embeddings,1,1,None,LOW,Video,No
+user_390,Autoencoders,7,6,Failed to normalize input data,LOW,Reading & Notes,No
+user_643,Zero-shot Learning,3,1,Misunderstood positional encoding in transformers,HIGH,Reading & Notes,No
+user_931,Transformers,9,8,Misused activation function,MEDIUM,Peer Discussion,No
+user_876,Transformers,9,8,Confused convolutional filters,LOW,Peer Discussion,No
+user_250,RNNs,7,5,Misused activation function,HIGH,Hands-on Coding,No
+user_032,CNNs,8,6,Failed to normalize input data,LOW,Video,No
+user_727,Reinforcement Learning,8,8,Confused reinforcement learning reward shaping,LOW,Peer Discussion,No
+user_777,Self-supervised Learning,2,2,None,MEDIUM,Peer Discussion,No
+user_520,Gradient Descent,2,1,Confused reinforcement learning reward shaping,MEDIUM,Reading & Notes,No
+user_967,Few-shot Learning,10,10,Confused reinforcement learning reward shaping,HIGH,Hands-on Coding,Yes
+user_345,Transformers,3,2,None,HIGH,Hands-on Coding,Yes
+user_789,Reinforcement Learning,3,3,Misused activation function,LOW,Hands-on Coding,No
+user_185,Attention Mechanisms,9,9,Misused activation function,HIGH,Peer Discussion,No
+user_579,Transformers,5,4,Failed to normalize input data,LOW,Hands-on Coding,No
+user_925,Multi-modal Learning,10,8,Confused reinforcement learning reward shaping,HIGH,Video,No
+user_163,Overfitting and Regularization,4,2,Misclassified overfitting vs underfitting,MEDIUM,Peer Discussion,No
+user_480,Word Embeddings,6,4,Confused convolutional filters,MEDIUM,Reading & Notes,No
+user_610,Self-supervised Learning,5,3,Misused activation function,MEDIUM,Reading & Notes,No
+user_982,Gradient Descent,2,2,Incorrect weight initialization,MEDIUM,Reading & Notes,No
+user_088,Self-supervised Learning,9,8,Incorrect embedding interpretation,LOW,Peer Discussion,No
+user_312,Transformers,6,4,Incorrect weight initialization,MEDIUM,Peer Discussion,No
+user_140,LLMs in Real-World Applications,7,5,Failed to normalize input data,HIGH,Peer Discussion,No
+user_218,Transformers,7,5,Misunderstood positional encoding in transformers,LOW,Reading & Notes,No
+user_636,Overfitting and Regularization,1,1,Misclassified overfitting vs underfitting,HIGH,Peer Discussion,Yes
+user_229,Optimization Techniques,4,4,None,HIGH,Video,Yes
+user_418,CNNs,9,8,None,LOW,Reading & Notes,No
+user_060,CNNs,10,8,Confused convolutional filters,LOW,Hands-on Coding,No
+user_726,RNNs,6,5,Misunderstood positional encoding in transformers,LOW,Reading & Notes,No
+user_935,Reinforcement Learning,7,5,None,HIGH,Peer Discussion,Yes
+user_867,GANs,7,5,None,MEDIUM,Hands-on Coding,No
+user_083,Autoencoders,9,8,None,LOW,Hands-on Coding,No
+user_693,Diffusion Models,2,1,Incorrect weight initialization,MEDIUM,Peer Discussion,No
+user_596,Optimization Techniques,1,1,Misused activation function,HIGH,Reading & Notes,Yes
+user_468,Few-shot Learning,2,2,Incorrect weight initialization,HIGH,Video,No
+user_277,Explainability in AI,1,1,Confused batch vs. stochastic gradient descent,HIGH,Hands-on Coding,No
+user_135,Multi-modal Learning,6,5,Misused activation function,LOW,Reading & Notes,No
+user_743,Backpropagation,5,5,None,MEDIUM,Video,No
+user_364,Optimization Techniques,3,3,Incorrect embedding interpretation,LOW,Hands-on Coding,No
+user_759,Vector Search,8,8,Incorrect weight initialization,HIGH,Reading & Notes,No
+user_213,Neural Networks,2,2,Misused dropout layers,LOW,Reading & Notes,No
+user_624,Self-supervised Learning,4,4,Misused activation function,MEDIUM,Hands-on Coding,No
+user_955,Word Embeddings,3,1,None,MEDIUM,Peer Discussion,No
+user_895,Zero-shot Learning,9,9,None,HIGH,Peer Discussion,Yes
+user_228,Optimization Techniques,4,4,Incorrect embedding interpretation,HIGH,Hands-on Coding,No
+user_720,Backpropagation,9,9,Misused activation function,HIGH,Video,No
+user_633,Vector Search,4,3,Misused dropout layers,LOW,Hands-on Coding,No
+user_077,Few-shot Learning,4,4,None,MEDIUM,Peer Discussion,No
+user_485,Vector Search,6,5,Misused dropout layers,MEDIUM,Video,No
+user_346,Word Embeddings,9,8,None,MEDIUM,Hands-on Coding,No
+user_785,Overfitting and Regularization,1,1,None,HIGH,Peer Discussion,Yes
+user_061,Gradient Descent,1,1,Misused activation function,MEDIUM,Reading & Notes,No
+user_251,Optimization Techniques,2,1,None,LOW,Peer Discussion,No
+user_848,GANs,3,2,None,HIGH,Peer Discussion,No
+user_354,Backpropagation,8,8,Confused batch vs. stochastic gradient descent,HIGH,Video,Yes
+user_701,Ethical AI,5,4,Confused batch vs. stochastic gradient descent,HIGH,Peer Discussion,Yes
+user_176,Explainability in AI,9,8,Confused batch vs. stochastic gradient descent,MEDIUM,Video,No
+user_248,Transformers,7,6,None,MEDIUM,Peer Discussion,No
+user_817,GANs,1,1,None,HIGH,Hands-on Coding,No
+user_677,Neural Networks,6,6,Confused reinforcement learning reward shaping,MEDIUM,Video,No
+user_233,Gradient Descent,1,1,None,HIGH,Reading & Notes,Yes
+user_967,Vector Search,9,8,Failed to normalize input data,LOW,Hands-on Coding,No
+user_914,RNNs,2,1,Confused convolutional filters,HIGH,Peer Discussion,Yes
+user_843,Explainability in AI,1,1,None,MEDIUM,Video,No
+user_976,Explainability in AI,8,6,None,LOW,Hands-on Coding,No
+user_843,Vector Search,1,1,None,LOW,Video,No
+user_890,Multi-modal Learning,10,8,Misclassified overfitting vs underfitting,HIGH,Reading & Notes,Yes
+user_256,Word Embeddings,4,2,None,HIGH,Reading & Notes,Yes
+user_006,Autoencoders,1,1,Misunderstood positional encoding in transformers,MEDIUM,Hands-on Coding,No
+user_485,RNNs,4,2,Confused reinforcement learning reward shaping,LOW,Video,No
+user_536,CNNs,1,1,None,LOW,Reading & Notes,No
+user_840,CNNs,4,4,Misused dropout layers,MEDIUM,Peer Discussion,No
+user_926,LLMs in Real-World Applications,10,9,Confused convolutional filters,MEDIUM,Peer Discussion,No
+user_647,Transformers,7,7,Failed to normalize input data,HIGH,Peer Discussion,No
+user_849,LLMs in Real-World Applications,6,6,Confused reinforcement learning reward shaping,LOW,Hands-on Coding,No
+user_177,Zero-shot Learning,9,9,Incorrect weight initialization,HIGH,Reading & Notes,Yes
+user_018,Diffusion Models,3,3,Incorrect weight initialization,LOW,Reading & Notes,No
+user_653,GANs,4,3,Incorrect weight initialization,LOW,Video,No
+user_065,Transformers,8,7,Misused dropout layers,MEDIUM,Reading & Notes,No
+user_488,Attention Mechanisms,4,4,Incorrect embedding interpretation,MEDIUM,Video,No
+user_339,Few-shot Learning,6,4,Failed to normalize input data,HIGH,Hands-on Coding,No
+user_903,RNNs,7,7,Misunderstood positional encoding in transformers,LOW,Video,No
+user_630,Vector Search,6,6,None,LOW,Peer Discussion,No
+user_795,LLMs in Real-World Applications,7,5,Failed to normalize input data,MEDIUM,Reading & Notes,No
+user_722,Self-supervised Learning,10,8,Failed to normalize input data,HIGH,Video,Yes
+user_580,Gradient Descent,2,1,Incorrect weight initialization,MEDIUM,Video,No
+user_207,Multi-modal Learning,7,7,Misclassified overfitting vs underfitting,LOW,Peer Discussion,No
+user_881,Backpropagation,6,5,None,LOW,Reading & Notes,No
+user_616,Reinforcement Learning,1,1,Incorrect weight initialization,HIGH,Reading & Notes,Yes
+user_190,Reinforcement Learning,5,5,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_796,Reinforcement Learning,7,7,Misunderstood positional encoding in transformers,MEDIUM,Hands-on Coding,No
+user_007,CNNs,1,1,None,HIGH,Hands-on Coding,No
+user_926,RNNs,5,3,None,MEDIUM,Video,No
+user_972,LLMs in Real-World Applications,8,7,Incorrect weight initialization,HIGH,Video,No
+user_005,Zero-shot Learning,5,4,None,HIGH,Hands-on Coding,Yes
+user_814,GANs,9,9,None,HIGH,Reading & Notes,No
+user_637,Autoencoders,5,3,Incorrect embedding interpretation,MEDIUM,Hands-on Coding,No
+user_693,Word Embeddings,7,5,None,MEDIUM,Reading & Notes,No
+user_157,Neural Networks,7,6,Confused reinforcement learning reward shaping,LOW,Reading & Notes,No
+user_213,Attention Mechanisms,9,9,Incorrect weight initialization,HIGH,Reading & Notes,Yes
+user_683,Ethical AI,10,8,Confused reinforcement learning reward shaping,LOW,Peer Discussion,No
+user_601,Vector Search,1,1,None,LOW,Reading & Notes,No
+user_838,Zero-shot Learning,9,9,Incorrect weight initialization,HIGH,Reading & Notes,Yes
+user_439,GANs,7,7,None,MEDIUM,Peer Discussion,No
+user_572,Optimization Techniques,1,1,None,HIGH,Video,Yes
+user_471,Diffusion Models,1,1,Misunderstood positional encoding in transformers,HIGH,Reading & Notes,No
+user_234,Backpropagation,5,4,None,HIGH,Reading & Notes,Yes
+user_091,RNNs,4,3,Incorrect weight initialization,LOW,Reading & Notes,No
+user_404,Explainability in AI,10,9,Incorrect weight initialization,HIGH,Peer Discussion,Yes
+user_210,Optimization Techniques,10,8,None,HIGH,Hands-on Coding,No
+user_601,Explainability in AI,6,5,Failed to normalize input data,HIGH,Peer Discussion,No
+user_062,Optimization Techniques,8,6,Misused dropout layers,HIGH,Reading & Notes,Yes
+user_198,Neural Networks,8,6,None,HIGH,Hands-on Coding,Yes
+user_426,Zero-shot Learning,7,7,Incorrect embedding interpretation,HIGH,Video,Yes
+user_334,Word Embeddings,5,4,Incorrect weight initialization,HIGH,Peer Discussion,No
+user_065,CNNs,4,4,Confused batch vs. stochastic gradient descent,MEDIUM,Reading & Notes,No
+user_419,Few-shot Learning,9,9,None,LOW,Reading & Notes,No
+user_202,Attention Mechanisms,3,1,None,MEDIUM,Peer Discussion,No
+user_674,Transformers,1,1,None,MEDIUM,Hands-on Coding,No
+user_363,Multi-modal Learning,8,8,None,MEDIUM,Hands-on Coding,No
+user_578,Ethical AI,9,9,None,HIGH,Video,Yes
+user_510,Backpropagation,3,2,None,LOW,Peer Discussion,No
+user_862,Optimization Techniques,2,1,None,MEDIUM,Reading & Notes,No
+user_162,Gradient Descent,9,7,Failed to normalize input data,MEDIUM,Peer Discussion,No
+user_831,Diffusion Models,8,7,None,MEDIUM,Reading & Notes,No
+user_533,Word Embeddings,10,8,Confused convolutional filters,HIGH,Reading & Notes,Yes
+user_787,GANs,3,3,None,HIGH,Reading & Notes,Yes
+user_897,Backpropagation,5,3,Misunderstood positional encoding in transformers,MEDIUM,Reading & Notes,No
+user_683,Word Embeddings,3,1,Confused batch vs. stochastic gradient descent,LOW,Peer Discussion,No
+user_338,Overfitting and Regularization,10,9,None,MEDIUM,Peer Discussion,No
+user_346,Multi-modal Learning,9,8,Failed to normalize input data,LOW,Peer Discussion,No
+user_607,Optimization Techniques,5,5,Confused batch vs. stochastic gradient descent,MEDIUM,Hands-on Coding,No
+user_309,Backpropagation,1,1,None,HIGH,Hands-on Coding,Yes
+user_947,Autoencoders,5,4,Misused dropout layers,LOW,Video,No
+user_370,Autoencoders,1,1,Confused convolutional filters,MEDIUM,Reading & Notes,No
+user_888,Diffusion Models,7,5,Incorrect weight initialization,LOW,Video,No
+user_709,Zero-shot Learning,10,8,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_324,Word Embeddings,1,1,Confused reinforcement learning reward shaping,MEDIUM,Video,No
+user_875,Ethical AI,4,2,Failed to normalize input data,HIGH,Reading & Notes,Yes
+user_793,Gradient Descent,10,8,Incorrect weight initialization,HIGH,Hands-on Coding,Yes
+user_215,Transformers,3,3,Confused batch vs. stochastic gradient descent,LOW,Video,No
+user_160,Optimization Techniques,3,2,None,LOW,Video,No
+user_481,Explainability in AI,5,3,None,HIGH,Peer Discussion,Yes
+user_416,GANs,1,1,Confused convolutional filters,LOW,Video,No
+user_614,Few-shot Learning,2,2,Failed to normalize input data,MEDIUM,Peer Discussion,No
+user_702,Zero-shot Learning,2,1,Incorrect embedding interpretation,HIGH,Hands-on Coding,Yes
+user_471,Transformers,9,7,None,HIGH,Reading & Notes,Yes
+user_099,Word Embeddings,4,2,Confused reinforcement learning reward shaping,LOW,Peer Discussion,No
+user_006,Vector Search,10,9,None,HIGH,Video,No
+user_713,Few-shot Learning,3,3,Misused activation function,LOW,Video,No
+user_238,Word Embeddings,5,4,None,LOW,Reading & Notes,No
+user_084,Zero-shot Learning,3,3,Misunderstood positional encoding in transformers,MEDIUM,Reading & Notes,No
+user_382,Gradient Descent,1,1,Misunderstood positional encoding in transformers,MEDIUM,Peer Discussion,No
+user_355,Self-supervised Learning,8,6,None,MEDIUM,Video,No
+user_689,Optimization Techniques,5,3,Misused dropout layers,MEDIUM,Peer Discussion,No
+user_867,Few-shot Learning,7,5,Misunderstood positional encoding in transformers,LOW,Reading & Notes,No
+user_576,RNNs,1,1,Misused activation function,LOW,Hands-on Coding,No
+user_350,Optimization Techniques,3,3,Misused dropout layers,HIGH,Hands-on Coding,No
+user_846,Diffusion Models,3,2,Confused convolutional filters,MEDIUM,Peer Discussion,No
+user_854,Self-supervised Learning,1,1,Misused dropout layers,HIGH,Video,Yes
+user_582,Backpropagation,4,4,None,MEDIUM,Video,No
+user_004,Explainability in AI,3,1,None,HIGH,Video,No
+user_175,Autoencoders,2,1,None,LOW,Hands-on Coding,No
+user_514,Multi-modal Learning,1,1,Confused convolutional filters,LOW,Video,No
+user_301,Neural Networks,9,7,None,HIGH,Reading & Notes,No
+user_393,GANs,6,6,Misunderstood positional encoding in transformers,MEDIUM,Reading & Notes,No
+user_927,Multi-modal Learning,6,4,Incorrect weight initialization,LOW,Peer Discussion,No
+user_619,Backpropagation,9,9,None,LOW,Hands-on Coding,No
+user_355,Transformers,5,5,None,HIGH,Peer Discussion,Yes
+user_681,Backpropagation,1,1,Misunderstood positional encoding in transformers,HIGH,Peer Discussion,Yes
+user_226,Transformers,7,6,Confused reinforcement learning reward shaping,LOW,Video,No
+user_049,CNNs,8,7,None,MEDIUM,Video,No
+user_510,Diffusion Models,1,1,Failed to normalize input data,HIGH,Reading & Notes,No
+user_851,Transformers,5,4,Misused dropout layers,LOW,Reading & Notes,No
+user_643,Attention Mechanisms,1,1,Confused reinforcement learning reward shaping,LOW,Peer Discussion,No
+user_910,Few-shot Learning,9,9,Incorrect embedding interpretation,LOW,Peer Discussion,No
+user_060,Word Embeddings,1,1,Misunderstood positional encoding in transformers,MEDIUM,Hands-on Coding,No
+user_281,Multi-modal Learning,10,9,None,LOW,Reading & Notes,No
+user_652,Vector Search,10,9,None,LOW,Reading & Notes,No
+user_772,Reinforcement Learning,10,10,None,LOW,Hands-on Coding,No
+user_588,Word Embeddings,8,7,Incorrect weight initialization,MEDIUM,Video,No
+user_233,Gradient Descent,3,2,Misused dropout layers,HIGH,Peer Discussion,No
+user_273,CNNs,8,6,Confused batch vs. stochastic gradient descent,HIGH,Hands-on Coding,No
+user_528,Few-shot Learning,8,7,Misunderstood positional encoding in transformers,LOW,Hands-on Coding,No
+user_142,Backpropagation,4,2,Failed to normalize input data,HIGH,Reading & Notes,Yes
+user_050,Neural Networks,9,9,Misused activation function,HIGH,Peer Discussion,No
+user_216,Word Embeddings,3,1,None,HIGH,Reading & Notes,Yes
+user_994,Vector Search,2,2,None,LOW,Reading & Notes,No
+user_206,Optimization Techniques,10,8,Misused dropout layers,MEDIUM,Peer Discussion,No
+user_825,Gradient Descent,8,7,Misused dropout layers,MEDIUM,Peer Discussion,No
+user_676,Explainability in AI,5,5,Misunderstood positional encoding in transformers,MEDIUM,Hands-on Coding,No
+user_227,Attention Mechanisms,10,9,Incorrect weight initialization,MEDIUM,Video,No
+user_348,GANs,9,7,None,MEDIUM,Peer Discussion,No
+user_717,Diffusion Models,7,5,None,MEDIUM,Reading & Notes,No
+user_773,Word Embeddings,1,1,None,LOW,Reading & Notes,No
+user_118,CNNs,2,1,Misunderstood positional encoding in transformers,MEDIUM,Reading & Notes,No
+user_797,GANs,4,2,Confused reinforcement learning reward shaping,HIGH,Video,No
+user_698,Few-shot Learning,6,4,None,LOW,Peer Discussion,No
+user_883,Vector Search,1,1,Misused dropout layers,LOW,Hands-on Coding,No
+user_948,Reinforcement Learning,6,4,Misclassified overfitting vs underfitting,MEDIUM,Hands-on Coding,No
+user_964,Gradient Descent,2,1,Failed to normalize input data,LOW,Reading & Notes,No
+user_937,LLMs in Real-World Applications,7,6,None,MEDIUM,Video,No
+user_678,Gradient Descent,7,5,Misused activation function,HIGH,Hands-on Coding,No
+user_195,Zero-shot Learning,2,2,Confused convolutional filters,MEDIUM,Video,No
+user_972,Attention Mechanisms,9,7,Misunderstood positional encoding in transformers,HIGH,Peer Discussion,Yes
+user_664,Transformers,8,7,Misused dropout layers,HIGH,Video,No
+user_576,Vector Search,7,7,Confused convolutional filters,MEDIUM,Hands-on Coding,No
+user_083,Word Embeddings,9,7,None,LOW,Hands-on Coding,No
+user_347,LLMs in Real-World Applications,1,1,Incorrect weight initialization,MEDIUM,Peer Discussion,No
+user_882,Neural Networks,7,6,Incorrect embedding interpretation,LOW,Reading & Notes,No
+user_781,Word Embeddings,6,5,Misunderstood positional encoding in transformers,LOW,Video,No
+user_395,Multi-modal Learning,4,2,Confused batch vs. stochastic gradient descent,HIGH,Hands-on Coding,No
+user_208,Attention Mechanisms,1,1,Misused activation function,LOW,Reading & Notes,No
+user_673,Optimization Techniques,2,2,Incorrect weight initialization,LOW,Reading & Notes,No
+user_077,Word Embeddings,3,3,Confused convolutional filters,HIGH,Hands-on Coding,No
+user_629,Self-supervised Learning,10,10,Confused reinforcement learning reward shaping,HIGH,Hands-on Coding,Yes
+user_761,Few-shot Learning,10,9,None,HIGH,Video,Yes
+user_743,Diffusion Models,2,1,Failed to normalize input data,LOW,Video,No
+user_722,Reinforcement Learning,2,1,None,HIGH,Hands-on Coding,No
+user_792,Diffusion Models,3,1,Confused batch vs. stochastic gradient descent,MEDIUM,Hands-on Coding,No
+user_166,Word Embeddings,10,10,Misused activation function,MEDIUM,Hands-on Coding,No
+user_377,Neural Networks,4,3,None,HIGH,Peer Discussion,No
+user_193,Self-supervised Learning,3,3,None,HIGH,Video,No
+user_644,Explainability in AI,10,10,Misused activation function,MEDIUM,Video,No
+user_307,CNNs,9,9,None,MEDIUM,Hands-on Coding,No
+user_267,Neural Networks,1,1,None,MEDIUM,Video,No
+user_932,Self-supervised Learning,7,5,Confused convolutional filters,MEDIUM,Reading & Notes,No
+user_390,GANs,2,1,None,HIGH,Peer Discussion,No
+user_279,Diffusion Models,5,3,Misused dropout layers,LOW,Peer Discussion,No
+user_880,Ethical AI,4,4,Confused reinforcement learning reward shaping,MEDIUM,Reading & Notes,No
+user_395,Few-shot Learning,8,6,Incorrect embedding interpretation,MEDIUM,Hands-on Coding,No
+user_653,GANs,1,1,None,MEDIUM,Video,No
+user_419,Backpropagation,5,5,Misunderstood positional encoding in transformers,LOW,Hands-on Coding,No
+user_749,Optimization Techniques,6,4,Incorrect weight initialization,LOW,Hands-on Coding,No
+user_370,Autoencoders,10,8,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_432,Autoencoders,2,1,Misused dropout layers,LOW,Hands-on Coding,No
+user_372,Autoencoders,10,8,Misused activation function,LOW,Reading & Notes,No
+user_664,Overfitting and Regularization,7,6,Incorrect weight initialization,HIGH,Hands-on Coding,No
+user_063,Reinforcement Learning,6,6,Misused activation function,MEDIUM,Hands-on Coding,No
+user_395,Attention Mechanisms,8,7,None,MEDIUM,Reading & Notes,No
+user_521,Self-supervised Learning,9,7,None,MEDIUM,Reading & Notes,No
+user_040,Backpropagation,10,9,Misused dropout layers,HIGH,Video,No
+user_330,Zero-shot Learning,5,5,Confused convolutional filters,MEDIUM,Peer Discussion,No
+user_398,Self-supervised Learning,6,5,None,MEDIUM,Peer Discussion,No
+user_854,Gradient Descent,8,6,Misclassified overfitting vs underfitting,LOW,Video,No
+user_994,Few-shot Learning,5,3,Confused convolutional filters,HIGH,Video,Yes
+user_301,Overfitting and Regularization,10,10,None,HIGH,Video,No
+user_804,Gradient Descent,7,5,Confused reinforcement learning reward shaping,LOW,Peer Discussion,No
+user_428,Multi-modal Learning,6,4,Misused activation function,HIGH,Video,No
+user_459,RNNs,8,7,None,HIGH,Peer Discussion,Yes
+user_143,Gradient Descent,7,6,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_467,RNNs,10,10,Misclassified overfitting vs underfitting,HIGH,Video,Yes
+user_187,RNNs,4,3,Confused reinforcement learning reward shaping,LOW,Hands-on Coding,No
+user_254,Backpropagation,9,8,None,MEDIUM,Peer Discussion,No
+user_066,Few-shot Learning,6,6,Confused reinforcement learning reward shaping,MEDIUM,Reading & Notes,No
+user_196,Gradient Descent,1,1,None,HIGH,Peer Discussion,Yes
+user_500,Overfitting and Regularization,10,9,None,MEDIUM,Video,No
+user_847,Diffusion Models,6,6,None,MEDIUM,Reading & Notes,No
+user_644,Backpropagation,2,1,None,LOW,Reading & Notes,No
+user_164,Vector Search,5,3,Confused reinforcement learning reward shaping,LOW,Hands-on Coding,No
+user_555,CNNs,5,3,None,HIGH,Video,Yes
+user_293,Vector Search,2,1,Misclassified overfitting vs underfitting,LOW,Hands-on Coding,No
+user_039,Neural Networks,4,2,None,LOW,Peer Discussion,No
+user_368,Autoencoders,7,5,Misunderstood positional encoding in transformers,LOW,Reading & Notes,No
+user_858,GANs,4,2,Misclassified overfitting vs underfitting,LOW,Hands-on Coding,No
+user_163,Word Embeddings,4,2,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_151,Autoencoders,8,8,Failed to normalize input data,MEDIUM,Peer Discussion,No
+user_781,Diffusion Models,7,6,Incorrect embedding interpretation,MEDIUM,Hands-on Coding,No
+user_061,Zero-shot Learning,9,9,None,HIGH,Reading & Notes,No
+user_945,Overfitting and Regularization,1,1,None,MEDIUM,Video,No
+user_190,GANs,8,6,None,LOW,Peer Discussion,No
+user_126,RNNs,9,9,None,HIGH,Hands-on Coding,Yes
+user_217,Self-supervised Learning,5,3,Failed to normalize input data,MEDIUM,Reading & Notes,No
+user_946,GANs,3,3,None,LOW,Peer Discussion,No
+user_905,Transformers,7,7,None,HIGH,Peer Discussion,No
+user_514,Transformers,1,1,Misused dropout layers,HIGH,Reading & Notes,Yes
+user_744,Explainability in AI,4,2,Incorrect embedding interpretation,LOW,Video,No
+user_710,Ethical AI,1,1,None,MEDIUM,Hands-on Coding,No
+user_958,Optimization Techniques,8,6,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_532,Attention Mechanisms,8,7,None,LOW,Hands-on Coding,No
+user_299,Gradient Descent,6,5,Incorrect embedding interpretation,LOW,Video,No
+user_336,Reinforcement Learning,8,8,Misclassified overfitting vs underfitting,HIGH,Hands-on Coding,Yes
+user_719,Autoencoders,5,3,Misclassified overfitting vs underfitting,LOW,Peer Discussion,No
+user_372,RNNs,6,4,Misused dropout layers,LOW,Reading & Notes,No
+user_821,Optimization Techniques,3,1,Incorrect embedding interpretation,MEDIUM,Video,No
+user_504,Gradient Descent,7,7,None,MEDIUM,Peer Discussion,No
+user_649,Backpropagation,6,4,None,HIGH,Reading & Notes,No
+user_729,Self-supervised Learning,5,5,Misunderstood positional encoding in transformers,MEDIUM,Peer Discussion,No
+user_979,Reinforcement Learning,6,4,None,MEDIUM,Video,No
+user_801,Autoencoders,9,7,None,HIGH,Video,No
+user_752,Diffusion Models,1,1,None,LOW,Reading & Notes,No
+user_099,Neural Networks,3,3,Misused dropout layers,HIGH,Reading & Notes,No
+user_604,Word Embeddings,3,1,None,MEDIUM,Video,No
+user_371,Vector Search,2,1,Incorrect weight initialization,MEDIUM,Reading & Notes,No
+user_572,GANs,1,1,None,MEDIUM,Video,No
+user_204,Optimization Techniques,1,1,None,HIGH,Reading & Notes,No
+user_540,Ethical AI,2,2,None,LOW,Peer Discussion,No
+user_073,Transformers,8,7,Confused reinforcement learning reward shaping,HIGH,Reading & Notes,Yes
+user_963,Neural Networks,9,9,Failed to normalize input data,LOW,Peer Discussion,No
+user_794,Multi-modal Learning,2,1,Misused activation function,HIGH,Hands-on Coding,Yes
+user_062,Optimization Techniques,9,7,Misclassified overfitting vs underfitting,MEDIUM,Hands-on Coding,No
+user_934,Few-shot Learning,1,1,None,HIGH,Video,Yes
+user_814,CNNs,7,5,Confused reinforcement learning reward shaping,MEDIUM,Hands-on Coding,No
+user_057,RNNs,6,5,None,MEDIUM,Peer Discussion,No
+user_645,Transformers,7,7,None,MEDIUM,Hands-on Coding,No
+user_719,Vector Search,3,1,None,HIGH,Hands-on Coding,Yes
+user_349,Multi-modal Learning,2,2,None,MEDIUM,Hands-on Coding,No
+user_689,Overfitting and Regularization,8,6,Misclassified overfitting vs underfitting,HIGH,Hands-on Coding,No
+user_134,Explainability in AI,10,8,None,LOW,Reading & Notes,No
+user_392,RNNs,4,3,Misused activation function,HIGH,Hands-on Coding,Yes
+user_682,Optimization Techniques,5,4,None,HIGH,Reading & Notes,Yes
+user_642,LLMs in Real-World Applications,8,6,Failed to normalize input data,LOW,Hands-on Coding,No
+user_114,Ethical AI,4,4,None,LOW,Peer Discussion,No
+user_475,Zero-shot Learning,9,9,None,MEDIUM,Hands-on Coding,No
+user_148,Reinforcement Learning,1,1,None,HIGH,Video,No
+user_624,Neural Networks,7,6,None,LOW,Reading & Notes,No
+user_794,Few-shot Learning,1,1,None,MEDIUM,Peer Discussion,No
+user_124,Diffusion Models,4,3,None,MEDIUM,Video,No
+user_246,Explainability in AI,2,1,Incorrect embedding interpretation,HIGH,Peer Discussion,No
+user_620,Diffusion Models,6,6,None,LOW,Reading & Notes,No
+user_393,Multi-modal Learning,6,6,None,HIGH,Reading & Notes,No
+user_070,LLMs in Real-World Applications,2,1,None,HIGH,Peer Discussion,No
+user_569,Autoencoders,8,6,Confused reinforcement learning reward shaping,LOW,Reading & Notes,No
+user_162,Self-supervised Learning,4,3,Failed to normalize input data,HIGH,Reading & Notes,No
+user_727,RNNs,5,4,Misclassified overfitting vs underfitting,LOW,Video,No
+user_321,Multi-modal Learning,1,1,Incorrect weight initialization,HIGH,Reading & Notes,No
+user_785,Backpropagation,6,4,None,LOW,Video,No
+user_839,Attention Mechanisms,7,7,None,MEDIUM,Video,No
+user_832,Transformers,5,3,Confused convolutional filters,MEDIUM,Video,No
+user_718,Neural Networks,8,6,None,HIGH,Video,Yes
+user_532,Word Embeddings,3,3,Confused batch vs. stochastic gradient descent,HIGH,Peer Discussion,Yes
+user_038,Zero-shot Learning,9,9,Misused activation function,LOW,Reading & Notes,No
+user_010,Few-shot Learning,2,2,Confused batch vs. stochastic gradient descent,LOW,Hands-on Coding,No
+user_804,LLMs in Real-World Applications,6,4,Incorrect embedding interpretation,MEDIUM,Video,No
+user_786,RNNs,2,2,Incorrect embedding interpretation,MEDIUM,Video,No
+user_766,Neural Networks,7,7,None,HIGH,Reading & Notes,No
+user_150,Neural Networks,8,7,Misused dropout layers,LOW,Video,No
+user_795,Vector Search,9,8,Misclassified overfitting vs underfitting,LOW,Reading & Notes,No
+user_992,Few-shot Learning,10,9,None,HIGH,Peer Discussion,Yes
+user_381,Explainability in AI,8,7,Confused batch vs. stochastic gradient descent,LOW,Reading & Notes,No
+user_693,Zero-shot Learning,1,1,Incorrect embedding interpretation,MEDIUM,Video,No
+user_132,Vector Search,2,2,Confused batch vs. stochastic gradient descent,LOW,Reading & Notes,No
+user_781,Self-supervised Learning,6,6,None,HIGH,Hands-on Coding,No
+user_893,Reinforcement Learning,8,7,Confused convolutional filters,LOW,Reading & Notes,No
+user_914,Reinforcement Learning,2,1,Confused reinforcement learning reward shaping,LOW,Hands-on Coding,No
+user_350,Overfitting and Regularization,3,1,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_629,LLMs in Real-World Applications,5,4,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_800,Autoencoders,5,3,None,LOW,Video,No
+user_514,Gradient Descent,7,7,None,MEDIUM,Video,No
+user_582,Ethical AI,10,8,Misused activation function,HIGH,Video,Yes
+user_404,Optimization Techniques,2,1,Incorrect weight initialization,HIGH,Peer Discussion,Yes
+user_817,Neural Networks,10,9,None,HIGH,Peer Discussion,Yes
+user_564,Reinforcement Learning,10,10,Misclassified overfitting vs underfitting,MEDIUM,Hands-on Coding,No
+user_898,Gradient Descent,3,1,Confused convolutional filters,MEDIUM,Hands-on Coding,No
+user_014,Diffusion Models,10,10,Misused dropout layers,MEDIUM,Peer Discussion,No
+user_267,Reinforcement Learning,10,10,Misclassified overfitting vs underfitting,HIGH,Peer Discussion,Yes
+user_983,Ethical AI,3,3,None,HIGH,Hands-on Coding,Yes
+user_329,Explainability in AI,6,4,None,HIGH,Peer Discussion,No
+user_989,Zero-shot Learning,6,6,None,MEDIUM,Video,No
+user_046,Self-supervised Learning,6,4,Misused dropout layers,LOW,Peer Discussion,No
+user_885,Vector Search,6,5,Misused activation function,MEDIUM,Video,No
+user_133,Few-shot Learning,3,1,Confused convolutional filters,HIGH,Hands-on Coding,No
+user_565,Few-shot Learning,9,9,Confused batch vs. stochastic gradient descent,HIGH,Reading & Notes,No
+user_682,Diffusion Models,10,9,Misunderstood positional encoding in transformers,LOW,Video,No
+user_846,Explainability in AI,10,10,Misunderstood positional encoding in transformers,HIGH,Peer Discussion,Yes
+user_843,Vector Search,1,1,Misused dropout layers,HIGH,Video,No
+user_052,Explainability in AI,8,7,None,LOW,Hands-on Coding,No
+user_721,Neural Networks,7,5,None,LOW,Reading & Notes,No
+user_328,Zero-shot Learning,10,10,Misused activation function,HIGH,Video,Yes
+user_155,Ethical AI,2,2,None,LOW,Video,No
+user_138,Backpropagation,1,1,Misclassified overfitting vs underfitting,HIGH,Reading & Notes,No
+user_773,Explainability in AI,8,6,Incorrect embedding interpretation,LOW,Hands-on Coding,No
+user_277,Multi-modal Learning,9,7,Misused activation function,LOW,Peer Discussion,No
+user_032,Diffusion Models,5,3,None,LOW,Reading & Notes,No
+user_017,Zero-shot Learning,3,2,Confused batch vs. stochastic gradient descent,MEDIUM,Video,No
+user_535,Multi-modal Learning,7,5,None,MEDIUM,Reading & Notes,No
+user_313,Autoencoders,3,2,Incorrect weight initialization,LOW,Peer Discussion,No
+user_251,Autoencoders,3,1,None,HIGH,Reading & Notes,No
+user_1000,Diffusion Models,8,6,None,HIGH,Reading & Notes,Yes
+user_452,Explainability in AI,10,10,None,HIGH,Peer Discussion,Yes
+user_465,Self-supervised Learning,1,1,None,LOW,Peer Discussion,No
+user_270,Self-supervised Learning,1,1,Misused activation function,LOW,Peer Discussion,No
+user_493,Diffusion Models,9,7,Failed to normalize input data,LOW,Reading & Notes,No
+user_010,Reinforcement Learning,8,8,Misclassified overfitting vs underfitting,LOW,Hands-on Coding,No
+user_642,Overfitting and Regularization,3,3,Misunderstood positional encoding in transformers,LOW,Hands-on Coding,No
+user_545,Attention Mechanisms,7,5,Confused reinforcement learning reward shaping,LOW,Reading & Notes,No
+user_405,Zero-shot Learning,9,8,Failed to normalize input data,HIGH,Peer Discussion,Yes
+user_986,Zero-shot Learning,7,5,None,HIGH,Peer Discussion,Yes
+user_962,Ethical AI,9,8,Incorrect weight initialization,HIGH,Reading & Notes,No
+user_057,Transformers,1,1,None,LOW,Hands-on Coding,No
+user_219,Ethical AI,8,7,None,LOW,Hands-on Coding,No
+user_088,Autoencoders,7,5,None,MEDIUM,Peer Discussion,No
+user_119,RNNs,8,7,None,MEDIUM,Video,No
+user_135,Neural Networks,5,5,None,HIGH,Video,Yes
+user_747,CNNs,2,2,Incorrect embedding interpretation,MEDIUM,Hands-on Coding,No
+user_837,Vector Search,3,3,None,MEDIUM,Hands-on Coding,No
+user_965,Autoencoders,7,6,None,LOW,Reading & Notes,No
+user_399,Vector Search,4,3,None,HIGH,Peer Discussion,No
+user_162,Reinforcement Learning,4,4,Failed to normalize input data,LOW,Video,No
+user_601,Diffusion Models,10,8,Misclassified overfitting vs underfitting,LOW,Peer Discussion,No
+user_839,Gradient Descent,8,6,Misused activation function,HIGH,Peer Discussion,Yes
+user_563,Neural Networks,9,7,Misused activation function,HIGH,Peer Discussion,Yes
+user_713,Backpropagation,5,3,Incorrect embedding interpretation,LOW,Reading & Notes,No
+user_698,Zero-shot Learning,9,8,Confused batch vs. stochastic gradient descent,HIGH,Reading & Notes,No
+user_423,Attention Mechanisms,3,2,Misused dropout layers,LOW,Peer Discussion,No
+user_027,Reinforcement Learning,8,7,None,HIGH,Hands-on Coding,No
+user_973,Neural Networks,1,1,None,MEDIUM,Video,No
+user_427,Self-supervised Learning,7,6,Confused convolutional filters,HIGH,Hands-on Coding,Yes
+user_466,Attention Mechanisms,2,1,Confused batch vs. stochastic gradient descent,LOW,Video,No
+user_632,Overfitting and Regularization,3,1,Confused batch vs. stochastic gradient descent,MEDIUM,Video,No
+user_176,Explainability in AI,7,6,Incorrect embedding interpretation,LOW,Peer Discussion,No
+user_356,Reinforcement Learning,7,6,Failed to normalize input data,MEDIUM,Peer Discussion,No
+user_194,Ethical AI,8,8,None,MEDIUM,Reading & Notes,No
+user_512,GANs,7,7,None,LOW,Peer Discussion,No
+user_224,Gradient Descent,3,1,Incorrect weight initialization,MEDIUM,Reading & Notes,No
+user_524,Backpropagation,6,5,None,HIGH,Peer Discussion,No
+user_590,Zero-shot Learning,10,8,Misunderstood positional encoding in transformers,HIGH,Reading & Notes,No
+user_265,Multi-modal Learning,6,5,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_045,Explainability in AI,6,6,Confused reinforcement learning reward shaping,MEDIUM,Reading & Notes,No
+user_310,Explainability in AI,7,5,Misclassified overfitting vs underfitting,LOW,Peer Discussion,No
+user_792,CNNs,5,3,Misunderstood positional encoding in transformers,HIGH,Video,Yes
+user_437,Transformers,8,7,Confused batch vs. stochastic gradient descent,LOW,Peer Discussion,No
+user_207,LLMs in Real-World Applications,5,4,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_861,Gradient Descent,6,6,Incorrect embedding interpretation,LOW,Peer Discussion,No
+user_989,Explainability in AI,9,7,Misused dropout layers,HIGH,Peer Discussion,Yes
+user_885,Ethical AI,3,1,Confused batch vs. stochastic gradient descent,HIGH,Hands-on Coding,No
+user_113,GANs,8,7,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_821,Few-shot Learning,10,10,None,HIGH,Video,Yes
+user_115,Overfitting and Regularization,3,1,Confused reinforcement learning reward shaping,HIGH,Video,No
+user_450,Autoencoders,7,6,Misused activation function,HIGH,Hands-on Coding,No
+user_901,Backpropagation,10,10,Misclassified overfitting vs underfitting,LOW,Hands-on Coding,No
+user_276,LLMs in Real-World Applications,5,5,None,MEDIUM,Peer Discussion,No
+user_678,Diffusion Models,3,1,None,MEDIUM,Reading & Notes,No
+user_019,Autoencoders,10,9,Failed to normalize input data,LOW,Hands-on Coding,No
+user_099,Vector Search,2,1,Misused activation function,HIGH,Video,Yes
+user_292,Self-supervised Learning,10,9,Confused convolutional filters,HIGH,Hands-on Coding,Yes
+user_218,Word Embeddings,1,1,Failed to normalize input data,MEDIUM,Video,No
+user_630,GANs,4,4,None,MEDIUM,Hands-on Coding,No
+user_985,Neural Networks,3,3,Misunderstood positional encoding in transformers,LOW,Video,No
+user_222,Explainability in AI,1,1,Incorrect embedding interpretation,MEDIUM,Hands-on Coding,No
+user_302,Ethical AI,3,2,None,LOW,Peer Discussion,No
+user_419,Diffusion Models,8,6,Misused activation function,HIGH,Hands-on Coding,Yes
+user_044,Self-supervised Learning,6,6,Incorrect embedding interpretation,LOW,Peer Discussion,No
+user_185,Gradient Descent,7,6,Misunderstood positional encoding in transformers,HIGH,Video,Yes
+user_221,CNNs,7,5,None,MEDIUM,Peer Discussion,No
+user_244,Autoencoders,6,5,Confused batch vs. stochastic gradient descent,MEDIUM,Reading & Notes,No
+user_345,GANs,5,3,Confused reinforcement learning reward shaping,HIGH,Video,No
+user_606,RNNs,7,7,Confused convolutional filters,LOW,Peer Discussion,No
+user_493,Ethical AI,6,6,Incorrect weight initialization,LOW,Hands-on Coding,No
+user_358,RNNs,5,5,None,MEDIUM,Peer Discussion,No
+user_890,Vector Search,7,7,Incorrect weight initialization,LOW,Reading & Notes,No
+user_753,LLMs in Real-World Applications,2,1,Misclassified overfitting vs underfitting,LOW,Reading & Notes,No
+user_145,Attention Mechanisms,6,4,Confused batch vs. stochastic gradient descent,HIGH,Hands-on Coding,Yes
+user_434,Explainability in AI,9,8,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_033,Word Embeddings,9,9,Misclassified overfitting vs underfitting,HIGH,Hands-on Coding,Yes
+user_670,Reinforcement Learning,5,4,Incorrect embedding interpretation,HIGH,Peer Discussion,No
+user_917,Attention Mechanisms,4,3,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_730,Transformers,9,8,Confused batch vs. stochastic gradient descent,MEDIUM,Peer Discussion,No
+user_394,Explainability in AI,10,10,None,MEDIUM,Hands-on Coding,No
+user_124,Explainability in AI,2,2,Misunderstood positional encoding in transformers,LOW,Video,No
+user_232,RNNs,7,6,None,LOW,Hands-on Coding,No
+user_134,Neural Networks,10,8,Failed to normalize input data,MEDIUM,Video,No
+user_348,Diffusion Models,8,7,Confused batch vs. stochastic gradient descent,MEDIUM,Hands-on Coding,No
+user_539,Ethical AI,1,1,Confused convolutional filters,MEDIUM,Reading & Notes,No
+user_051,Few-shot Learning,1,1,Misused dropout layers,HIGH,Hands-on Coding,Yes
+user_235,Zero-shot Learning,7,7,None,MEDIUM,Hands-on Coding,No
+user_886,LLMs in Real-World Applications,5,5,None,HIGH,Reading & Notes,No
+user_896,Neural Networks,4,4,Incorrect embedding interpretation,MEDIUM,Hands-on Coding,No
+user_908,Overfitting and Regularization,8,8,None,HIGH,Video,Yes
+user_666,Diffusion Models,6,4,Failed to normalize input data,HIGH,Hands-on Coding,Yes
+user_558,Attention Mechanisms,5,5,Misused activation function,HIGH,Hands-on Coding,Yes
+user_844,Transformers,10,8,Failed to normalize input data,LOW,Video,No
+user_639,Multi-modal Learning,7,6,None,MEDIUM,Reading & Notes,No
+user_892,Transformers,2,1,None,MEDIUM,Hands-on Coding,No
+user_452,RNNs,7,6,None,MEDIUM,Video,No
+user_731,Gradient Descent,3,3,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_178,Self-supervised Learning,8,7,None,LOW,Hands-on Coding,No
+user_076,Autoencoders,5,3,None,LOW,Video,No
+user_513,Multi-modal Learning,9,8,Misused dropout layers,HIGH,Video,No
+user_328,LLMs in Real-World Applications,6,6,Confused reinforcement learning reward shaping,LOW,Video,No
+user_826,GANs,6,4,Misunderstood positional encoding in transformers,HIGH,Hands-on Coding,Yes
+user_460,Vector Search,8,8,Confused batch vs. stochastic gradient descent,HIGH,Video,No
+user_191,Neural Networks,2,2,Incorrect weight initialization,MEDIUM,Peer Discussion,No
+user_785,Zero-shot Learning,8,8,Misclassified overfitting vs underfitting,MEDIUM,Video,No
+user_814,Neural Networks,1,1,Incorrect weight initialization,HIGH,Peer Discussion,No
+user_818,Self-supervised Learning,3,3,None,LOW,Peer Discussion,No
+user_882,Explainability in AI,8,8,None,LOW,Video,No
+user_608,Ethical AI,4,2,Confused convolutional filters,HIGH,Reading & Notes,Yes
+user_681,Multi-modal Learning,6,5,Confused reinforcement learning reward shaping,MEDIUM,Peer Discussion,No
+user_358,Word Embeddings,4,4,Confused batch vs. stochastic gradient descent,MEDIUM,Peer Discussion,No
+user_258,LLMs in Real-World Applications,8,7,None,HIGH,Reading & Notes,Yes
+user_815,CNNs,3,1,Failed to normalize input data,HIGH,Video,Yes
+user_416,Optimization Techniques,8,8,Misused activation function,LOW,Peer Discussion,No
+user_517,Optimization Techniques,8,7,Confused batch vs. stochastic gradient descent,MEDIUM,Reading & Notes,No
+user_629,Gradient Descent,4,4,Confused batch vs. stochastic gradient descent,HIGH,Reading & Notes,Yes
+user_433,CNNs,7,7,Misused dropout layers,MEDIUM,Peer Discussion,No
+user_150,GANs,6,5,Confused batch vs. stochastic gradient descent,LOW,Reading & Notes,No
+user_090,Backpropagation,2,1,Misused activation function,MEDIUM,Reading & Notes,No
+user_088,RNNs,10,8,None,LOW,Reading & Notes,No
+user_558,Transformers,1,1,Incorrect weight initialization,MEDIUM,Reading & Notes,No
+user_221,RNNs,8,8,Confused reinforcement learning reward shaping,MEDIUM,Reading & Notes,No
+user_713,Ethical AI,3,2,None,LOW,Hands-on Coding,No
+user_114,LLMs in Real-World Applications,9,9,Incorrect embedding interpretation,HIGH,Hands-on Coding,No
+user_998,Optimization Techniques,7,7,None,HIGH,Peer Discussion,No
+user_421,Multi-modal Learning,2,1,None,MEDIUM,Video,No
+user_802,Vector Search,3,1,Failed to normalize input data,LOW,Video,No
+user_063,Optimization Techniques,1,1,None,HIGH,Hands-on Coding,No
+user_525,Explainability in AI,6,6,Confused convolutional filters,HIGH,Hands-on Coding,Yes
+user_119,Gradient Descent,10,10,Incorrect weight initialization,LOW,Reading & Notes,No
+user_343,Self-supervised Learning,2,1,Confused reinforcement learning reward shaping,LOW,Peer Discussion,No
+user_905,Transformers,1,1,None,HIGH,Hands-on Coding,No
+user_725,Zero-shot Learning,6,4,Failed to normalize input data,HIGH,Video,No
+user_164,RNNs,6,4,Misclassified overfitting vs underfitting,HIGH,Hands-on Coding,Yes
+user_594,Reinforcement Learning,8,6,Incorrect weight initialization,HIGH,Reading & Notes,No
+user_413,Multi-modal Learning,2,2,Misclassified overfitting vs underfitting,LOW,Hands-on Coding,No
+user_090,Backpropagation,9,8,None,HIGH,Video,Yes
+user_120,Ethical AI,7,6,Misused activation function,LOW,Video,No
+user_161,Self-supervised Learning,8,6,None,HIGH,Video,Yes
+user_539,GANs,6,6,Misused dropout layers,LOW,Reading & Notes,No
+user_058,Transformers,1,1,None,HIGH,Reading & Notes,Yes
+user_037,Explainability in AI,10,9,Incorrect weight initialization,MEDIUM,Hands-on Coding,No
+user_495,RNNs,8,6,Misclassified overfitting vs underfitting,MEDIUM,Peer Discussion,No
+user_335,Diffusion Models,4,3,Confused reinforcement learning reward shaping,MEDIUM,Hands-on Coding,No
+user_314,Ethical AI,2,1,Misused activation function,MEDIUM,Hands-on Coding,No
+user_604,Optimization Techniques,2,1,Misused activation function,LOW,Peer Discussion,No
+user_511,Self-supervised Learning,3,2,Misunderstood positional encoding in transformers,LOW,Peer Discussion,No
+user_210,GANs,2,2,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_130,Backpropagation,5,3,Confused batch vs. stochastic gradient descent,MEDIUM,Reading & Notes,No
+user_038,Multi-modal Learning,9,9,None,LOW,Reading & Notes,No
+user_905,Reinforcement Learning,5,3,None,MEDIUM,Hands-on Coding,No
+user_331,Reinforcement Learning,9,9,None,MEDIUM,Peer Discussion,No
+user_698,Attention Mechanisms,4,3,None,HIGH,Hands-on Coding,No
+user_849,LLMs in Real-World Applications,5,3,Confused batch vs. stochastic gradient descent,LOW,Reading & Notes,No
+user_164,Overfitting and Regularization,4,3,None,LOW,Peer Discussion,No
+user_640,Attention Mechanisms,10,10,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_065,Few-shot Learning,10,10,Failed to normalize input data,HIGH,Video,No
+user_403,LLMs in Real-World Applications,10,9,None,LOW,Hands-on Coding,No
+user_587,RNNs,4,2,None,LOW,Peer Discussion,No
+user_141,RNNs,2,1,Misused activation function,MEDIUM,Hands-on Coding,No
+user_997,Reinforcement Learning,5,3,Confused batch vs. stochastic gradient descent,HIGH,Video,Yes
+user_424,CNNs,2,1,Misclassified overfitting vs underfitting,MEDIUM,Hands-on Coding,No
+user_049,Attention Mechanisms,3,1,Confused convolutional filters,MEDIUM,Reading & Notes,No
+user_863,LLMs in Real-World Applications,5,5,Misunderstood positional encoding in transformers,MEDIUM,Reading & Notes,No
+user_735,Zero-shot Learning,8,7,None,HIGH,Hands-on Coding,Yes
+user_676,Transformers,10,8,None,LOW,Reading & Notes,No
+user_471,Word Embeddings,4,3,Failed to normalize input data,LOW,Video,No
+user_731,Ethical AI,1,1,None,LOW,Peer Discussion,No
+user_885,Few-shot Learning,7,5,None,LOW,Hands-on Coding,No
+user_550,Reinforcement Learning,9,9,Misclassified overfitting vs underfitting,HIGH,Hands-on Coding,Yes
+user_837,CNNs,4,2,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_870,Multi-modal Learning,1,1,Failed to normalize input data,LOW,Peer Discussion,No
+user_414,Multi-modal Learning,8,7,None,HIGH,Video,No
+user_743,Optimization Techniques,6,4,Misused activation function,LOW,Video,No
+user_109,Self-supervised Learning,9,9,None,HIGH,Hands-on Coding,No
+user_588,Autoencoders,5,4,Misunderstood positional encoding in transformers,LOW,Hands-on Coding,No
+user_462,Diffusion Models,7,7,None,MEDIUM,Peer Discussion,No
+user_677,LLMs in Real-World Applications,1,1,None,MEDIUM,Reading & Notes,No
+user_914,Ethical AI,3,1,Confused convolutional filters,HIGH,Video,Yes
+user_562,Word Embeddings,4,3,Failed to normalize input data,MEDIUM,Peer Discussion,No
+user_858,LLMs in Real-World Applications,5,3,None,HIGH,Peer Discussion,Yes
+user_079,Diffusion Models,4,4,Misclassified overfitting vs underfitting,MEDIUM,Peer Discussion,No
+user_941,RNNs,10,9,Confused convolutional filters,MEDIUM,Video,No
+user_014,Vector Search,5,5,None,MEDIUM,Hands-on Coding,No
+user_349,Few-shot Learning,5,5,Failed to normalize input data,LOW,Peer Discussion,No
+user_593,Neural Networks,7,5,Misclassified overfitting vs underfitting,HIGH,Hands-on Coding,No
+user_610,Few-shot Learning,10,10,Incorrect embedding interpretation,HIGH,Hands-on Coding,Yes
+user_229,Gradient Descent,3,1,Misclassified overfitting vs underfitting,HIGH,Peer Discussion,No
+user_365,Diffusion Models,4,4,None,LOW,Hands-on Coding,No
+user_546,Gradient Descent,8,8,Confused reinforcement learning reward shaping,LOW,Peer Discussion,No
+user_974,Few-shot Learning,2,1,Misclassified overfitting vs underfitting,LOW,Hands-on Coding,No
+user_962,Self-supervised Learning,1,1,Misunderstood positional encoding in transformers,HIGH,Hands-on Coding,Yes
+user_879,GANs,1,1,Misused activation function,HIGH,Video,Yes
+user_318,Zero-shot Learning,8,8,None,MEDIUM,Hands-on Coding,No
+user_025,Self-supervised Learning,9,7,Confused convolutional filters,MEDIUM,Hands-on Coding,No
+user_994,Optimization Techniques,1,1,None,MEDIUM,Hands-on Coding,No
+user_727,Word Embeddings,10,8,None,HIGH,Hands-on Coding,No
+user_255,Backpropagation,4,4,None,HIGH,Peer Discussion,No
+user_628,Backpropagation,2,1,Misclassified overfitting vs underfitting,LOW,Video,No
+user_696,Diffusion Models,8,6,None,LOW,Reading & Notes,No
+user_660,Word Embeddings,2,1,None,MEDIUM,Video,No
+user_865,Self-supervised Learning,1,1,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_373,Attention Mechanisms,9,8,Incorrect embedding interpretation,MEDIUM,Hands-on Coding,No
+user_631,LLMs in Real-World Applications,2,1,Confused convolutional filters,LOW,Peer Discussion,No
+user_582,CNNs,2,2,None,HIGH,Video,No
+user_050,LLMs in Real-World Applications,9,8,Confused convolutional filters,MEDIUM,Hands-on Coding,No
+user_042,Overfitting and Regularization,10,10,None,LOW,Video,No
+user_328,Neural Networks,5,4,Confused convolutional filters,LOW,Reading & Notes,No
+user_431,Optimization Techniques,3,2,Misused dropout layers,HIGH,Reading & Notes,No
+user_984,Attention Mechanisms,10,8,None,LOW,Reading & Notes,No
+user_840,Diffusion Models,7,6,None,HIGH,Peer Discussion,No
+user_977,Neural Networks,7,6,Misclassified overfitting vs underfitting,HIGH,Peer Discussion,No
+user_891,Diffusion Models,6,5,None,MEDIUM,Video,No
+user_454,Zero-shot Learning,1,1,Incorrect embedding interpretation,HIGH,Reading & Notes,No
+user_746,Ethical AI,6,5,Confused batch vs. stochastic gradient descent,LOW,Reading & Notes,No
+user_434,Multi-modal Learning,9,8,None,HIGH,Reading & Notes,No
+user_475,RNNs,4,3,Confused convolutional filters,HIGH,Reading & Notes,Yes
+user_181,Overfitting and Regularization,10,8,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_183,Word Embeddings,10,10,Failed to normalize input data,MEDIUM,Video,No
+user_595,Word Embeddings,8,7,Confused batch vs. stochastic gradient descent,HIGH,Peer Discussion,Yes
+user_823,LLMs in Real-World Applications,4,3,None,LOW,Video,No
+user_649,Neural Networks,7,7,Confused convolutional filters,HIGH,Peer Discussion,Yes
+user_654,Explainability in AI,9,9,None,MEDIUM,Video,No
+user_695,Zero-shot Learning,8,6,Misclassified overfitting vs underfitting,HIGH,Peer Discussion,No
+user_824,RNNs,1,1,Misclassified overfitting vs underfitting,LOW,Reading & Notes,No
+user_797,Neural Networks,6,6,Misclassified overfitting vs underfitting,MEDIUM,Video,No
+user_280,Few-shot Learning,7,7,None,LOW,Video,No
+user_627,Word Embeddings,1,1,Misused dropout layers,LOW,Reading & Notes,No
+user_403,Overfitting and Regularization,4,3,Incorrect weight initialization,MEDIUM,Peer Discussion,No
+user_771,Zero-shot Learning,9,9,Misused activation function,MEDIUM,Reading & Notes,No
+user_950,RNNs,8,7,Failed to normalize input data,LOW,Peer Discussion,No
+user_325,Self-supervised Learning,10,10,None,MEDIUM,Video,No
+user_726,CNNs,8,6,Failed to normalize input data,MEDIUM,Hands-on Coding,No
+user_188,Few-shot Learning,2,1,Confused reinforcement learning reward shaping,HIGH,Reading & Notes,Yes
+user_334,Reinforcement Learning,4,2,Misused dropout layers,HIGH,Peer Discussion,Yes
+user_668,CNNs,3,3,Misused activation function,LOW,Reading & Notes,No
+user_627,Explainability in AI,2,2,Misunderstood positional encoding in transformers,HIGH,Reading & Notes,No
+user_825,Diffusion Models,9,7,Failed to normalize input data,LOW,Peer Discussion,No
+user_206,LLMs in Real-World Applications,8,6,None,HIGH,Hands-on Coding,Yes
+user_761,Optimization Techniques,2,2,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_625,Diffusion Models,5,3,Failed to normalize input data,HIGH,Video,No
+user_017,Zero-shot Learning,6,6,None,MEDIUM,Video,No
+user_886,LLMs in Real-World Applications,5,3,Incorrect weight initialization,HIGH,Peer Discussion,Yes
+user_173,GANs,6,5,Misclassified overfitting vs underfitting,LOW,Video,No
+user_918,Attention Mechanisms,10,9,None,LOW,Hands-on Coding,No
+user_200,RNNs,4,4,Misused activation function,HIGH,Video,Yes
+user_173,Zero-shot Learning,8,6,Misused dropout layers,MEDIUM,Video,No
+user_844,CNNs,6,5,None,MEDIUM,Reading & Notes,No
+user_785,Diffusion Models,8,8,None,MEDIUM,Video,No
+user_495,Backpropagation,10,8,None,HIGH,Hands-on Coding,No
+user_308,Multi-modal Learning,4,3,Incorrect weight initialization,MEDIUM,Hands-on Coding,No
+user_408,CNNs,8,8,Misunderstood positional encoding in transformers,MEDIUM,Hands-on Coding,No
+user_017,Diffusion Models,8,7,Confused batch vs. stochastic gradient descent,MEDIUM,Peer Discussion,No
+user_445,Overfitting and Regularization,5,4,None,LOW,Reading & Notes,No
+user_044,Reinforcement Learning,5,4,None,HIGH,Hands-on Coding,No
+user_950,Vector Search,4,2,Confused batch vs. stochastic gradient descent,MEDIUM,Video,No
+user_956,LLMs in Real-World Applications,5,4,None,MEDIUM,Peer Discussion,No
+user_623,Optimization Techniques,10,8,Misused dropout layers,MEDIUM,Video,No
+user_496,Diffusion Models,6,5,None,MEDIUM,Hands-on Coding,No
+user_150,CNNs,2,2,Incorrect weight initialization,MEDIUM,Reading & Notes,No
+user_503,Few-shot Learning,6,6,Failed to normalize input data,LOW,Video,No
+user_168,Autoencoders,7,5,Confused reinforcement learning reward shaping,HIGH,Peer Discussion,Yes
+user_738,Vector Search,4,2,Incorrect weight initialization,LOW,Reading & Notes,No
+user_128,Transformers,5,4,Confused batch vs. stochastic gradient descent,HIGH,Hands-on Coding,Yes
+user_108,Attention Mechanisms,8,8,None,LOW,Reading & Notes,No
+user_821,Zero-shot Learning,6,6,None,HIGH,Video,No
+user_042,Gradient Descent,5,5,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_450,Autoencoders,3,2,Misused activation function,MEDIUM,Peer Discussion,No
+user_324,Multi-modal Learning,3,3,Incorrect weight initialization,HIGH,Peer Discussion,Yes
+user_351,GANs,5,5,Misused dropout layers,MEDIUM,Reading & Notes,No
+user_078,Autoencoders,3,1,None,LOW,Peer Discussion,No
+user_259,Few-shot Learning,2,1,Misunderstood positional encoding in transformers,LOW,Peer Discussion,No
+user_709,Transformers,1,1,Confused batch vs. stochastic gradient descent,MEDIUM,Reading & Notes,No
+user_909,Backpropagation,2,1,Incorrect embedding interpretation,HIGH,Reading & Notes,No
+user_211,Vector Search,7,6,Misclassified overfitting vs underfitting,HIGH,Video,No
+user_342,LLMs in Real-World Applications,4,3,Incorrect weight initialization,HIGH,Reading & Notes,Yes
+user_534,Vector Search,9,8,None,HIGH,Peer Discussion,Yes
+user_161,Word Embeddings,8,6,None,LOW,Peer Discussion,No
+user_138,RNNs,4,2,Failed to normalize input data,MEDIUM,Peer Discussion,No
+user_143,Diffusion Models,2,1,None,HIGH,Video,No
+user_256,Autoencoders,5,3,Incorrect embedding interpretation,MEDIUM,Reading & Notes,No
+user_546,LLMs in Real-World Applications,6,5,Confused reinforcement learning reward shaping,HIGH,Peer Discussion,No
+user_547,CNNs,8,8,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_770,Autoencoders,4,2,None,MEDIUM,Hands-on Coding,No
+user_864,CNNs,1,1,Confused convolutional filters,MEDIUM,Video,No
+user_350,Ethical AI,6,6,Confused reinforcement learning reward shaping,HIGH,Reading & Notes,No
+user_291,Overfitting and Regularization,10,9,Incorrect weight initialization,LOW,Hands-on Coding,No
+user_065,Optimization Techniques,5,3,None,MEDIUM,Video,No
+user_085,Transformers,5,4,None,HIGH,Hands-on Coding,Yes
+user_189,Neural Networks,3,1,Misclassified overfitting vs underfitting,HIGH,Hands-on Coding,Yes
+user_154,CNNs,2,1,Failed to normalize input data,LOW,Video,No
+user_641,Backpropagation,8,6,Misused activation function,LOW,Peer Discussion,No
+user_416,Explainability in AI,3,1,Incorrect weight initialization,MEDIUM,Video,No
+user_681,LLMs in Real-World Applications,7,5,Misused activation function,LOW,Video,No
+user_109,Overfitting and Regularization,4,3,None,LOW,Video,No
+user_807,Attention Mechanisms,1,1,Failed to normalize input data,LOW,Hands-on Coding,No
+user_384,Transformers,2,1,Confused convolutional filters,LOW,Peer Discussion,No
+user_064,Overfitting and Regularization,5,5,Incorrect embedding interpretation,LOW,Video,No
+user_185,LLMs in Real-World Applications,1,1,None,MEDIUM,Video,No
+user_823,RNNs,10,10,Incorrect weight initialization,LOW,Video,No
+user_019,Autoencoders,9,9,Misclassified overfitting vs underfitting,LOW,Reading & Notes,No
+user_631,RNNs,1,1,None,LOW,Video,No
+user_690,Backpropagation,1,1,Confused reinforcement learning reward shaping,MEDIUM,Video,No
+user_184,GANs,7,6,None,LOW,Video,No
+user_392,Reinforcement Learning,2,1,None,HIGH,Video,Yes
+user_713,Transformers,2,1,None,MEDIUM,Video,No
+user_777,LLMs in Real-World Applications,8,8,None,LOW,Reading & Notes,No
+user_560,Ethical AI,7,7,Misclassified overfitting vs underfitting,HIGH,Reading & Notes,Yes
+user_007,Gradient Descent,7,6,Incorrect embedding interpretation,LOW,Video,No
+user_616,Few-shot Learning,8,8,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_683,GANs,7,7,None,MEDIUM,Video,No
+user_811,Optimization Techniques,2,1,None,MEDIUM,Peer Discussion,No
+user_461,Transformers,9,8,Misclassified overfitting vs underfitting,HIGH,Reading & Notes,No
+user_297,Diffusion Models,8,7,None,HIGH,Video,No
+user_638,Autoencoders,5,3,Failed to normalize input data,LOW,Video,No
+user_695,Neural Networks,9,9,None,HIGH,Hands-on Coding,Yes
+user_873,Gradient Descent,3,1,None,HIGH,Reading & Notes,No
+user_219,Optimization Techniques,10,9,Misused activation function,HIGH,Video,No
+user_539,Transformers,9,9,Confused reinforcement learning reward shaping,LOW,Hands-on Coding,No
+user_452,Self-supervised Learning,8,6,Incorrect weight initialization,LOW,Hands-on Coding,No
+user_760,Diffusion Models,6,5,Misunderstood positional encoding in transformers,MEDIUM,Video,No
+user_790,Word Embeddings,7,5,Misused activation function,LOW,Video,No
+user_661,Overfitting and Regularization,1,1,None,HIGH,Peer Discussion,No
+user_125,Transformers,6,4,None,HIGH,Peer Discussion,Yes
+user_842,Self-supervised Learning,10,9,Failed to normalize input data,HIGH,Reading & Notes,No
+user_640,Backpropagation,9,9,Misused activation function,HIGH,Hands-on Coding,No
+user_592,Backpropagation,9,8,Failed to normalize input data,LOW,Video,No
+user_636,Diffusion Models,5,4,None,LOW,Reading & Notes,No
+user_644,Optimization Techniques,2,1,None,HIGH,Video,Yes
+user_646,Overfitting and Regularization,3,3,Misunderstood positional encoding in transformers,HIGH,Peer Discussion,Yes
+user_592,Transformers,6,5,None,LOW,Hands-on Coding,No
+user_132,GANs,2,2,None,MEDIUM,Video,No
+user_846,Autoencoders,5,4,Confused batch vs. stochastic gradient descent,MEDIUM,Peer Discussion,No
+user_195,Zero-shot Learning,8,7,None,LOW,Reading & Notes,No
+user_459,RNNs,5,4,Incorrect embedding interpretation,HIGH,Video,No
+user_243,Backpropagation,10,8,None,MEDIUM,Video,No
+user_157,Explainability in AI,4,4,Misused dropout layers,HIGH,Reading & Notes,Yes
+user_669,Overfitting and Regularization,9,8,None,MEDIUM,Peer Discussion,No
+user_1000,RNNs,10,8,Misused dropout layers,MEDIUM,Hands-on Coding,No
+user_069,Attention Mechanisms,1,1,None,MEDIUM,Video,No
+user_327,Gradient Descent,1,1,None,LOW,Video,No
+user_853,GANs,5,4,Misclassified overfitting vs underfitting,LOW,Reading & Notes,No
+user_954,Explainability in AI,9,9,None,MEDIUM,Reading & Notes,No
+user_209,GANs,9,8,Misused dropout layers,HIGH,Video,No
+user_120,RNNs,10,8,None,HIGH,Hands-on Coding,Yes
+user_144,Zero-shot Learning,10,9,Misused activation function,LOW,Video,No
+user_286,Multi-modal Learning,2,2,Misclassified overfitting vs underfitting,HIGH,Video,Yes
+user_205,Zero-shot Learning,6,5,Incorrect embedding interpretation,HIGH,Reading & Notes,Yes
+user_138,Word Embeddings,10,10,Misused activation function,LOW,Hands-on Coding,No
+user_477,Attention Mechanisms,9,9,Confused batch vs. stochastic gradient descent,HIGH,Peer Discussion,No
+user_098,CNNs,4,4,Confused batch vs. stochastic gradient descent,LOW,Video,No
+user_227,GANs,6,6,Failed to normalize input data,LOW,Peer Discussion,No
+user_173,Ethical AI,5,4,Misused activation function,HIGH,Peer Discussion,No
+user_035,Zero-shot Learning,10,8,None,HIGH,Peer Discussion,Yes
+user_888,Backpropagation,4,2,None,HIGH,Hands-on Coding,No
+user_696,LLMs in Real-World Applications,9,7,None,LOW,Peer Discussion,No
+user_329,GANs,8,6,Misused activation function,MEDIUM,Peer Discussion,No
+user_258,Ethical AI,5,3,None,LOW,Peer Discussion,No
+user_720,Diffusion Models,6,5,None,LOW,Reading & Notes,No
+user_575,Zero-shot Learning,9,9,None,HIGH,Peer Discussion,No
+user_123,Multi-modal Learning,7,6,Misunderstood positional encoding in transformers,LOW,Hands-on Coding,No
+user_682,Attention Mechanisms,10,10,None,LOW,Peer Discussion,No
+user_083,Explainability in AI,8,8,Incorrect embedding interpretation,MEDIUM,Peer Discussion,No
+user_050,Diffusion Models,6,4,Failed to normalize input data,MEDIUM,Peer Discussion,No
+user_124,Explainability in AI,4,3,Confused convolutional filters,LOW,Reading & Notes,No
+user_842,Multi-modal Learning,7,6,Incorrect weight initialization,HIGH,Reading & Notes,No
+user_068,Few-shot Learning,7,5,None,HIGH,Hands-on Coding,No
+user_675,Self-supervised Learning,5,4,None,HIGH,Reading & Notes,No
+user_668,Transformers,5,5,Failed to normalize input data,HIGH,Reading & Notes,No
+user_404,Gradient Descent,2,2,Confused batch vs. stochastic gradient descent,MEDIUM,Reading & Notes,No
+user_577,Vector Search,1,1,None,HIGH,Reading & Notes,No
+user_313,LLMs in Real-World Applications,4,3,None,MEDIUM,Reading & Notes,No
+user_612,Backpropagation,1,1,None,LOW,Hands-on Coding,No
+user_865,LLMs in Real-World Applications,6,4,Incorrect weight initialization,MEDIUM,Hands-on Coding,No
+user_673,Few-shot Learning,3,3,None,HIGH,Video,Yes
+user_555,Multi-modal Learning,9,8,None,HIGH,Reading & Notes,Yes
+user_985,GANs,9,9,Confused reinforcement learning reward shaping,HIGH,Hands-on Coding,No
+user_805,Multi-modal Learning,4,2,None,HIGH,Peer Discussion,Yes
+user_719,GANs,6,4,None,LOW,Reading & Notes,No
+user_616,Autoencoders,2,2,None,MEDIUM,Peer Discussion,No
+user_895,CNNs,9,9,None,MEDIUM,Peer Discussion,No
+user_597,RNNs,5,3,Incorrect embedding interpretation,HIGH,Peer Discussion,No
+user_372,Optimization Techniques,6,4,Failed to normalize input data,LOW,Peer Discussion,No
+user_126,Autoencoders,7,5,None,MEDIUM,Peer Discussion,No
+user_516,Zero-shot Learning,10,8,Confused convolutional filters,MEDIUM,Peer Discussion,No
+user_505,Backpropagation,9,8,Confused reinforcement learning reward shaping,MEDIUM,Reading & Notes,No
+user_958,Vector Search,7,5,None,MEDIUM,Hands-on Coding,No
+user_581,LLMs in Real-World Applications,7,6,Misclassified overfitting vs underfitting,HIGH,Hands-on Coding,Yes
+user_012,CNNs,10,10,None,LOW,Peer Discussion,No
+user_539,Reinforcement Learning,6,5,Confused convolutional filters,HIGH,Reading & Notes,No
+user_793,Word Embeddings,2,1,None,MEDIUM,Hands-on Coding,No
+user_759,Optimization Techniques,4,3,None,LOW,Video,No
+user_121,Overfitting and Regularization,8,8,Misused activation function,MEDIUM,Hands-on Coding,No
+user_450,Optimization Techniques,6,5,Confused reinforcement learning reward shaping,HIGH,Hands-on Coding,Yes
+user_905,Multi-modal Learning,10,10,None,MEDIUM,Video,No
+user_431,Zero-shot Learning,7,6,Incorrect weight initialization,MEDIUM,Video,No
+user_083,GANs,7,5,Incorrect embedding interpretation,HIGH,Reading & Notes,No
+user_052,Few-shot Learning,4,3,None,HIGH,Peer Discussion,Yes
+user_799,Optimization Techniques,9,8,Misunderstood positional encoding in transformers,HIGH,Reading & Notes,Yes
+user_247,Ethical AI,6,6,None,LOW,Peer Discussion,No
+user_574,RNNs,1,1,Confused batch vs. stochastic gradient descent,MEDIUM,Peer Discussion,No
+user_973,Backpropagation,2,1,None,MEDIUM,Peer Discussion,No
+user_740,Vector Search,5,3,None,LOW,Video,No
+user_404,Multi-modal Learning,1,1,Confused convolutional filters,MEDIUM,Hands-on Coding,No
+user_877,RNNs,2,2,None,MEDIUM,Video,No
+user_042,Backpropagation,2,1,Failed to normalize input data,LOW,Video,No
+user_466,Zero-shot Learning,5,3,Incorrect embedding interpretation,LOW,Hands-on Coding,No
+user_021,GANs,4,4,Failed to normalize input data,LOW,Reading & Notes,No
+user_828,Ethical AI,7,7,None,HIGH,Video,Yes
+user_084,GANs,4,2,None,MEDIUM,Reading & Notes,No
+user_861,Ethical AI,9,7,None,LOW,Peer Discussion,No
+user_974,Backpropagation,5,5,Failed to normalize input data,HIGH,Peer Discussion,Yes
+user_373,Zero-shot Learning,10,9,Confused batch vs. stochastic gradient descent,LOW,Hands-on Coding,No
+user_883,Transformers,6,5,Confused reinforcement learning reward shaping,LOW,Hands-on Coding,No
+user_157,Transformers,8,6,None,MEDIUM,Video,No
+user_667,Gradient Descent,7,6,Incorrect embedding interpretation,LOW,Video,No
+user_381,Reinforcement Learning,6,4,None,HIGH,Hands-on Coding,Yes
+user_278,Few-shot Learning,9,8,Confused batch vs. stochastic gradient descent,HIGH,Peer Discussion,Yes
+user_833,RNNs,8,6,None,HIGH,Reading & Notes,Yes
+user_014,Optimization Techniques,8,7,None,MEDIUM,Video,No
+user_428,Zero-shot Learning,9,9,Incorrect weight initialization,MEDIUM,Reading & Notes,No
+user_481,Diffusion Models,3,2,Incorrect weight initialization,HIGH,Video,No
+user_538,GANs,2,1,None,LOW,Video,No
+user_204,Gradient Descent,4,4,Confused reinforcement learning reward shaping,HIGH,Peer Discussion,Yes
+user_219,Diffusion Models,3,3,None,HIGH,Hands-on Coding,No
+user_787,Few-shot Learning,8,8,Confused reinforcement learning reward shaping,HIGH,Hands-on Coding,Yes
+user_337,Transformers,9,7,Confused reinforcement learning reward shaping,MEDIUM,Hands-on Coding,No
+user_816,Self-supervised Learning,3,2,Failed to normalize input data,MEDIUM,Reading & Notes,No
+user_941,Diffusion Models,10,10,None,HIGH,Peer Discussion,No
+user_294,Autoencoders,10,8,Failed to normalize input data,HIGH,Hands-on Coding,Yes
+user_047,Vector Search,5,5,Misused activation function,MEDIUM,Video,No
+user_111,Explainability in AI,5,4,None,LOW,Video,No
+user_773,Multi-modal Learning,9,9,None,MEDIUM,Video,No
+user_921,RNNs,5,5,Confused convolutional filters,LOW,Hands-on Coding,No
+user_902,Optimization Techniques,3,3,Misused activation function,HIGH,Video,Yes
+user_307,Zero-shot Learning,6,6,None,MEDIUM,Reading & Notes,No
+user_479,Overfitting and Regularization,4,4,None,MEDIUM,Reading & Notes,No
+user_854,Optimization Techniques,9,8,None,HIGH,Hands-on Coding,No
+user_770,Zero-shot Learning,3,2,None,MEDIUM,Hands-on Coding,No
+user_779,Word Embeddings,3,1,Misused dropout layers,HIGH,Hands-on Coding,No

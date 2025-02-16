@@ -1,6 +1,7 @@
 # main.py
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
+import pathlib
 
 from fastapi import FastAPI, HTTPException, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
@@ -17,8 +18,13 @@ from qdrant_client import QdrantClient
 from qdrant_client.http import models
 from sentence_transformers import SentenceTransformer
 from app.services.vector_search import VectorSearch
+from app.services.vector_search1 import VectorSearch1
 from app.models.schemas import SearchQuery, SearchResult
 from uuid import uuid4
+
+# Create data directory if it doesn't exist
+data_dir = pathlib.Path("data")
+data_dir.mkdir(exist_ok=True)
 
 # Initialize FastAPI app
 app = FastAPI(title="Knowledge Balance Network")
@@ -48,6 +54,8 @@ try:
     
     # Initialize vector search for IRIS
     vector_search = VectorSearch(cursor)
+    learning_groups_search = VectorSearch1(cursor)  
+    
     print("Successfully initialized IRIS vector search")
     
 except Exception as e:
@@ -119,17 +127,27 @@ async def search_discussions(query: SearchQuery):
 @app.post("/upload")
 async def upload_files(files: List[UploadFile] = File(...)):
     """Handle file uploads and store in Qdrant"""
+    if not files:
+        raise HTTPException(status_code=400, detail="No files provided")
+        
     uploaded_files = []
     
     for file in files:
-        with tempfile.NamedTemporaryFile(delete=False, suffix=file.filename) as tmp:
+        # Save uploaded file to data directory
+        file_path = data_dir / file.filename
+        with open(file_path, "wb") as buffer:
             content = await file.read()
-            tmp.write(content)
-            tmp_path = tmp.name
+            buffer.write(content)
             
         try:
+            if not file_path.exists():
+                raise HTTPException(
+                    status_code=404,
+                    detail=f"File not found: {file.filename}"
+                )
+                
             # Process file and extract text
-            text_chunks = process_file(tmp_path)
+            text_chunks = process_file(str(file_path))
             
             # Encode text chunks
             embeddings = encoder.encode(text_chunks)
@@ -156,7 +174,9 @@ async def upload_files(files: List[UploadFile] = File(...)):
             })
             
         finally:
-            os.unlink(tmp_path)
+            # Clean up the temporary file
+            if file_path.exists():
+                file_path.unlink()
     
     return {
         "message": f"Successfully processed {len(uploaded_files)} files",
@@ -183,21 +203,21 @@ async def chat(request: dict):
         unique_context = []
         for result in results:
             text = result.payload['text']
-            # Create a hash of the text for uniqueness check
             text_hash = hash(text)
             if text_hash not in seen:
                 seen.add(text_hash)
                 truncated = text[:300] + "..." if len(text) > 300 else text
                 unique_context.append({
                     'text': truncated,
-                    'id': str(result.id),  # Include Qdrant point ID
-                    'score': result.score  # Include similarity score
+                    'id': str(result.id),
+                    'score': result.score
                 })
         
         try:
+            # Use OpenAI instead of Perplexity
             client = OpenAI(
-                api_key=os.getenv('SONAR_API_KEY'),
-                base_url="https://api.perplexity.ai"
+                api_key=os.getenv('OPENAI_API_KEY')  # Use OpenAI key
+                # Remove base_url to use OpenAI's API
             )
             
             context_text = ' '.join([ctx['text'] for ctx in unique_context])
@@ -213,20 +233,20 @@ async def chat(request: dict):
             ]
             
             response = client.chat.completions.create(
-                model="sonar-pro",
+                model="gpt-3.5-turbo",  # Use OpenAI model
                 messages=messages
             )
             
             return {
                 "answer": response.choices[0].message.content,
-                "context": unique_context  # Send structured context with IDs
+                "context": unique_context
             }
             
         except Exception as e:
-            print(f"Sonar API Error: {str(e)}")
+            print(f"OpenAI API Error: {str(e)}")  # Updated error message
             raise HTTPException(
                 status_code=500,
-                detail=f"Error with Sonar API: {str(e)}"
+                detail=f"Error with OpenAI API: {str(e)}"
             )
             
     except Exception as e:
@@ -235,6 +255,32 @@ async def chat(request: dict):
             status_code=500,
             detail=f"Error processing request: {str(e)}"
         )
+
+ # Add endpoint to FastAPI
+# In main.py, update imports
+
+
+
+# Add new endpoint for learning groups
+@app.get("/api/learning-groups")
+async def get_learning_groups(group_size: int = 4):
+    """
+    Get groups of learners with similar learning patterns
+    """
+    try:
+        groups = learning_groups_search.cluster_similar_learners(group_size)
+        return {
+            "status": "success",
+            "total_groups": len(groups),
+            "group_size": group_size,
+            "groups": groups
+        }
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error creating learning groups: {str(e)}"
+        )
+
 # Cleanup on shutdown
 @app.on_event("shutdown")
 async def shutdown_event():
