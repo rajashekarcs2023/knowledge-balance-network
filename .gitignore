@@ -1,2 +1,5 @@
 venv
 .env
+install/
+irisenv
+env-iris
